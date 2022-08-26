@@ -38,12 +38,3 @@ a student who would like to be considered as a geek.<br>
 What do you think of me? <strong>CLICK BADGES ABOVE</strong> to vote.
 </p>
 
-### Recent Activities
-
-<table width="800px">
-<tr><td width="50%" valign="top" >
-<!-- table line=0 raw=0 start -->
-
-
-<p align="right"><sub>Last updated:  <a href=https://github.com/rdp-studio><strong>@rdp-studio</strong></a>  voted  at 19/07/2022, 14:17 
-</sub></p>
