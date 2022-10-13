@@ -1,5 +1,6 @@
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@tuer?theme=rule34"></a>
+
 </p>
 
 <!-- auto generated at Fri Jul 22 2022 02:24:08 GMT+0000 (Coordinated Universal Time) -->
