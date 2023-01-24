@@ -1,6 +1,5 @@
-<p align="center">
-<a # 冬菇>
-  </a></p>
+# 冬菇>
+
 
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@tuer?theme=rule34">
