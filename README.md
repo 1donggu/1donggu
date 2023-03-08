@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src=" https://count.getloli.com/get/@yu?theme=rule34">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@yu?theme=rule34">
 </a></p>
 
 
