@@ -4,8 +4,6 @@
 
 <p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://raw.githubusercontent.com/1donggu/1donggu/main/1.png" height="150"></a></p>
 
-<p align="center"><a href="https://api.xn--hp1a.top/api"><img src="https://api.xn--hp1a.top/api" height="150"></a></p>
-
 
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://moe-counter.glitch.me/get/@fengling?theme=rule34">
