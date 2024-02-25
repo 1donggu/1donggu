@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://raw.githubusercontent.com/1donggu/1donggu/main/1.png" height="150"></a></p>
 
-![](https://api.xn--hp1a.top/ranimg/api.php)
+![1](https://api.xn--hp1a.top/ranimg/api.php)
 
 
 <p align="center">
