@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://moe-counter.glitch.me/get/@fengling?theme=rule34">
+  <a href="ll"><img src="我身处俗世 昨日如观花">
 </a></p>
 
 
