@@ -6,6 +6,5 @@
   <a href="我身处俗世 昨日如观花"><img src="https://pic2.ziyuan.wang/user/guest/2024/04/anim _1__809bf2f91235b.png">
 </a></p>
 
-<p align="center"><a href="https://github.com/memset0/memset0/blob/master/pages/tags.md"><img src="https://pic2.ziyuan.wang/user/0w0/2024/05/g_2ccb3183877f1.png" height="150"></a></p>
 
 -------------------
